@@ -1,0 +1,17 @@
+2023-04-19 22:39:49 INFO  TC_002_RewardSearch:21 - ==== Reward search Test case execution is started ====
+ 2023-04-19 22:40:08 INFO  TC_002_RewardSearch:23 - ==== ConfigurationManager Button is clicked ==========
+ 2023-04-19 22:40:08 INFO  TC_002_RewardSearch:25 - ===== Reward Button is clicked =======================
+ 2023-04-19 22:40:09 INFO  TC_002_RewardSearch:27 - ===Reward Name was entered : FPL_TEST_2507_REWARD
+ 2023-04-19 22:40:10 INFO  TC_002_RewardSearch:32 - ==== Search button is clicked =======================
+ 2023-04-19 22:40:10 INFO  TC_002_RewardSearch:38 - Expected Reward Name in results : FPL_TEST_2507_REWARD Actual Reward Name : FPL_TEST_2507_REWARD
+ 2023-04-19 22:40:10 INFO  TC_002_RewardSearch:41 - ==== Reward search Test case execution is completed ====
+ 2023-04-19 22:45:41 INFO  TC_002_RewardSearch:27 - ==== Reward search Test case execution is started ====
+ 2023-04-19 22:45:59 INFO  TC_002_RewardSearch:29 - ==== ConfigurationManager Button is clicked ==========
+ 2023-04-19 22:45:59 INFO  TC_002_RewardSearch:31 - ===== Reward Button is clicked =======================
+ 2023-04-19 22:46:00 INFO  TC_002_RewardSearch:33 - ===Reward Name was entered : FPL_TEST_2507_REWARD
+ 2023-04-19 22:46:01 INFO  TC_002_RewardSearch:38 - ==== Search button is clicked =======================
+ 2023-04-19 22:46:01 INFO  TC_002_RewardSearch:44 - Expected Reward Name in results : FPL_TEST_2507_REWARD 
+Actual Reward Name : FPL_TEST_2507_REWARD
+ 2023-04-19 22:46:01 INFO  TC_002_RewardSearch:54 - ==== Screenshot has been taken ====
+ 2023-04-19 22:46:01 INFO  TC_002_RewardSearch:56 - ==== Reward search Test case execution is completed ====
+ 

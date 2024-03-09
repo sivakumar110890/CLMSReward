@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-21T16:33:54 IST" name="Suite" finished-at="2023-04-21T16:34:10 IST" duration-ms="16098">
+    <groups>
+    </groups>
+    <test started-at="2023-04-21T16:33:54 IST" name="Test" finished-at="2023-04-21T16:33:54 IST" duration-ms="244">
+      <class name="testSuite.TC_001_LoginTest">
+        <test-method signature="LoginTestExecution()[pri:0, instance:testSuite.TC_001_LoginTest@53fe15ff]" started-at="2023-04-21T16:33:54 IST" name="LoginTestExecution" finished-at="2023-04-21T16:33:54 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestExecution -->
+      </class> <!-- testSuite.TC_001_LoginTest -->
+    </test> <!-- Test -->
+    <test started-at="2023-04-21T16:33:54 IST" name="Reward search test execution is started " finished-at="2023-04-21T16:34:10 IST" duration-ms="15796">
+      <class name="testSuite.TC_002_RewardSearch">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testSuite.TC_002_RewardSearch@2d901eb0]" started-at="2023-04-21T16:33:43 IST" name="LaunchBrowser" finished-at="2023-04-21T16:33:54 IST" duration-ms="10668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="RewardSearch()[pri:0, instance:testSuite.TC_002_RewardSearch@2d901eb0]" started-at="2023-04-21T16:33:54 IST" name="RewardSearch" finished-at="2023-04-21T16:34:10 IST" duration-ms="15792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RewardSearch -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testSuite.TC_002_RewardSearch@2d901eb0]" started-at="2023-04-21T16:34:10 IST" name="CloseBrowser" finished-at="2023-04-21T16:34:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testSuite.TC_002_RewardSearch -->
+    </test> <!-- Reward search test execution is started  -->
+  </suite> <!-- Suite -->
+</testng-results>
